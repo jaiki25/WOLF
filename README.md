@@ -1,6 +1,5 @@
 # WOLF
 If you're installing Cairo one compiler for the first time:
-
 git clone https://github.com/starkware-libs/cairo/
 cd cairo
 git checkout 9c190561ce1e8323665857f1a77082925c817b4c
