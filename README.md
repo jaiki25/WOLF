@@ -39,4 +39,5 @@ From your terminal, in the folder you installed Cairo in
 
 cd cairo
 cargo run --bin starknet-compile -- ../hello_starknet.cairo ../hello_starknet.json --replace-ids	
+
 Congratulations, you have compiled your contracts from Cairo to Sierra!
