@@ -25,7 +25,7 @@ source ~/cairo_venv_v11/bin/activate
 If you had cairo-lang installed previously, uninstall it
 
 pip3 uninstall cairo-lang
-Install Cairo lang
+Install Cairo lang on your system
 
 pip3 install ecdsa fastecdsa sympy
 pip3 install cairo-lang
